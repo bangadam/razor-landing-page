@@ -1,5 +1,7 @@
 # Razor Landing Page
 
+![Background Image](public/bg.png)
+
 This project is a landing page for Razor, built using Vue.js and Tailwind CSS.
 
 ## Table of Contents
